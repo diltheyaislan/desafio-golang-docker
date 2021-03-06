@@ -6,7 +6,7 @@ Criar imagem do Docker para executar uma aplicação em Golang que exibe uma men
 
 Link da imagem no Docker Hub:
 
-(https://hub.docker.com/repository/docker/diltheyaislan/codeeducation)
+<https://hub.docker.com/repository/docker/diltheyaislan/codeeducation>
 
 ## Baixando a imagem
 
